@@ -1,0 +1,25 @@
+{
+  "artigos": [
+    {
+      "id": "1",
+      "titulo": "Introdução ao App Router no Next.js",
+      "autor": "Denilson Santos",
+      "publicadoEm": "2025-08-20",
+      "conteudo": "O App Router, introduzido nas versões recentes do Next.js, simplifica a criação de rotas e o data fetching usando Server Components por padrão. Neste artigo, veremos como criar uma página inicial, rotas dinâmicas e aplicar SEO com generateMetadata..."
+    },
+    {
+      "id": "2",
+      "titulo": "SSG vs SSR: Quando usar cada um?",
+      "autor": "Maria Oliveira",
+      "publicadoEm": "2025-08-25",
+      "conteudo": "Static Site Generation (SSG) e Server-Side Rendering (SSR) resolvem necessidades diferentes. SSG é ótimo para conteúdo que muda pouco, já SSR é útil para dados que mudam a cada requisição. Mostraremos exemplos práticos e as diretivas force-static e force-dynamic..."
+    },
+    {
+      "id": "3",
+      "titulo": "SEO Dinâmico com generateMetadata",
+      "autor": "João Pereira",
+      "publicadoEm": "2025-08-28",
+      "conteudo": "Com o App Router é possível definir metadados por rota usando a função generateMetadata. Isso permite customizar title e description para cada artigo, melhorando o SEO e o compartilhamento em redes sociais..."
+    }
+  ]
+}
